@@ -18,7 +18,7 @@
         }
 
         async   gotoLoginPage(){
-            await this.page.goto("https://sit-datamkt.ieat.go.th")
+            await this.page.goto("https://xxxxx.com")
         }
 
         async  login(username, password){
